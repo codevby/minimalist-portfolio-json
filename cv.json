@@ -6,7 +6,7 @@
     "email": "leonardogarcarr23@gmail.com",
     "phone": "+53 59288490",
     "url": "https://midu.dev",
-    "summary": "Soy Ingeniero en Ciencias Informáticas, con una profunda pasión por el desarrollo de software. Poseo un sólido conocimiento en ingeniería y diseño, abarcando todas las etapas del ciclo de vida del desarrollo de software. Mis habilidades de programación están especialmente orientadas hacia el desarrollo frontend.",
+    "summary": "Soy un Ingeniero de Software especializado en el desarrollo de aplicaciones web utilizando el stack MEAN (MongoDB, Express.js, Angular y Node.js). Con una sólida formación técnica y experiencia en la creación de soluciones escalables y eficientes",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -184,6 +184,15 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend",
+        "JavaScript Superset",
+        "Fullstack"
+      ]
     }
   ],
   "languages": [
@@ -213,6 +222,18 @@
   ],
   "projects": [
     {
+      "name": "IndustrialX | E-commerce",
+      "isActive": true,
+      "haveGithub": false,
+      "haveWeb": true,
+      "description": "Una plataforma de comercio electrónico de vanguardia adaptada a la industria alimentaria de Cuba, enfocada en crear conexiones fluidas entre proveedores y consumidores.",
+      "highlights": [
+        "Frontend developer",
+        "Angular 19.2"
+      ],
+      "url": "https://industialx-frontend.pages.dev/"
+    },
+    {
       "name": "Gestor de configuración de servicios telemáticos.",
       "isActive": false,
       "haveGithub": true,
@@ -224,18 +245,6 @@
         "MongoDB"
       ],
       "github": "https://github.com/codevby/frontend-tesis"
-    },
-    {
-      "name": "IndustrialX | E-commerce",
-      "isActive": true,
-      "haveGithub": false,
-      "haveWeb": true,
-      "description": "Una plataforma de comercio electrónico de vanguardia adaptada a la industria alimentaria de Cuba, enfocada en crear conexiones fluidas entre proveedores y consumidores.",
-      "highlights": [
-        "Frontend developer",
-        "Angular 19.2"
-      ],
-      "url": "https://industialx-frontend.pages.dev/"
     }
   ]
 }
