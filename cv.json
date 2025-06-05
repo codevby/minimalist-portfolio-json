@@ -222,14 +222,29 @@
   ],
   "projects": [
     {
-      "name": "IndustrialX | E-commerce",
+      "name": "MercaShop Los García",
+      "isActive": false,
+      "haveGithub": false,
+      "haveWeb": true,
+      "description": "Landing page diseñada para MercaShop Los García, un supermercado local, enfocada en ofrecer una experiencia clara y atractiva para sus clientes, destacando productos y promociones.",
+      "highlights": [
+        "Frontend developer",
+        "Next.js",
+        "TailwindCSS"
+      ],
+      "url": "https://mercashop.neptunosoftware.com/"
+    },
+    {
+      "name": "IndustrialX",
       "isActive": true,
       "haveGithub": false,
       "haveWeb": true,
       "description": "Una plataforma de comercio electrónico de vanguardia adaptada a la industria alimentaria de Cuba, enfocada en crear conexiones fluidas entre proveedores y consumidores.",
       "highlights": [
-        "Frontend developer",
-        "Angular 19.2"
+        "FullStack developer",
+        "Angular 19.2",
+        "Express.js",
+        "MongoDB"
       ],
       "url": "https://industialx-frontend.pages.dev/"
     },
